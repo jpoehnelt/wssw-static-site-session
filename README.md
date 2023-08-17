@@ -1,0 +1,1 @@
+# wssw-static-site-session
