@@ -1,1 +1,1 @@
-# wssw-static-site-session
+# WSSW - Static Site Session

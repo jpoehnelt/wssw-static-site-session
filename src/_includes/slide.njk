@@ -1,0 +1,29 @@
+---
+layout: layout.njk
+---
+
+<h1>{{ title }}</h1>
+
+<div class="pb-14">{{ content | safe }}</div>
+
+{% set index = collections.slides | getCollectionItemIndex(page) %}
+
+<div class="flex gap-2 fixed bottom-0 right-0 h-14 p-2">
+	<a href="/" class="btn">Home</a>
+	<a href="{{ collections.slides[index - 1].url }}" class="btn">Previous</a>
+	<a href="{{ collections.slides[index + 1].url }}" class="btn">Next</a>
+</div>
+
+<script>
+document.addEventListener("keydown", function(e) {
+  e.preventDefault();
+  switch (e.key) {
+    case "ArrowLeft":
+      window.location.assign("{{ collections.slides[index - 1].url }}");
+      break;
+    case "ArrowRight":
+      window.location.assign("{{ collections.slides[index + 1].url }}");
+	  break;
+  }
+});
+</script>
