@@ -9,9 +9,9 @@ layout: layout.njk
 {% set index = collections.slides | getCollectionItemIndex(page) %}
 
 <div class="flex gap-2 fixed bottom-0 right-0 h-14 p-2">
-	<a href="/" class="btn">Home</a>
-	<a href="{{ collections.slides[index - 1].url }}" class="btn">Previous</a>
-	<a href="{{ collections.slides[index + 1].url }}" class="btn">Next</a>
+	<sl-button variant="primary" href="/">Home</sl-button>
+	<sl-button variant="primary" href="{{ collections.slides[index - 1].url }}">Previous</sl-button>
+	<sl-button variant="primary" href="{{ collections.slides[index + 1].url }}">Next</sl-button>
 </div>
 
 <script>

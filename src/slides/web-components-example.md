@@ -9,8 +9,10 @@ order: 8.1
 ## Example Menu
 
 <div class="flex gap-2 flex-col max-w-xs mb-8">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.8.0/cdn/themes/light.css" />
-  <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.8.0/cdn/shoelace-autoloader.js"></script>
+  <!-- already loaded in site, here for reference
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.8.0/cdn/themes/light.css" />
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.8.0/cdn/shoelace-autoloader.js"></script> 
+  -->
   
   <sl-menu>
     <sl-menu-item value="foo">Foo</sl-menu-item>
