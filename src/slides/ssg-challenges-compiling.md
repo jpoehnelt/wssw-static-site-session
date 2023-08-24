@@ -1,6 +1,6 @@
 ---
 layout: slide.njk
-title: SSG Challenges
+title: SSG Compilation and Performance
 order: 6
 ---
 
@@ -9,3 +9,5 @@ order: 6
 {% predictText "in a short markdown list, why are static site generator build times faster today?" %}
 
 {% predictText "in a short paragraph, what is the takeaway about eleventy performance as written about in https://www.zachleat.com/web/build-benchmark/#benchmark-results? how many pages are generated per second?" %}
+
+{% predictText "in three words, what slows static site compilation down?" %}

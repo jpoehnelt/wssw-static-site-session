@@ -7,21 +7,21 @@ body {
 }
 
 ul > li {
-  @apply m-4 list-disc;
+  @apply mx-4 list-disc;
 }
 
 ol > li {
-  @apply m-4 list-decimal;
+  @apply mx-4 list-decimal;
 }
 
 h1 {
-  @apply text-4xl font-bold mb-4;
+  @apply text-4xl font-bold mb-4 mt-2;
 }
 h2 {
-  @apply text-3xl font-bold mb-3;
+  @apply text-3xl font-bold mb-3 mt-1;
 }
 h3 {
-  @apply text-2xl font-bold mb-2;
+  @apply text-2xl font-bold mb-2 mt-1;
 }
 h4 {
   @apply text-xl font-bold mb-1;
@@ -33,11 +33,11 @@ h6 {
   @apply text-base font-bold;
 }
 
-p, hr, table, ul, ol, dl, blockquote, pre, form, noscript, iframe, fieldset {
+p, hr, table, ul, ol, dl, blockquote, pre, form, noscript, iframe, fieldset, br, picture, li {
   @apply mb-4;
 }
 
-p, li, dd, dt, td, th, blockquote, pre, form, noscript, iframe, fieldset {
+p, li, dd, dt, td, th, blockquote, pre, form, noscript, iframe, fieldset, code {
   @apply max-w-7xl;
 }
 
@@ -50,13 +50,25 @@ th, td {
 }
 
 .btn {
-    @apply inline-block px-2 py-1 rounded-lg bg-gray-700 text-gray-100;
-}
-
-.btn:hover {
-    @apply bg-gray-800;
+    @apply inline-block px-2 py-1 rounded-lg bg-teal-800 hover:bg-teal-700 text-gray-100;
 }
 
 .prompt {
-    @apply inline-block px-2 py-1 rounded-lg bg-gray-200 text-gray-800;
+    @apply inline-block px-2 py-1 rounded-lg bg-teal-200 text-gray-800;
+}
+
+code {
+    @apply inline-block px-2 py-1 rounded-lg bg-gray-50 text-gray-800 font-mono w-full text-base;
+}
+
+blockquote {
+    @apply border-l-4 border-teal-800 pl-4;
+}
+
+a {
+    @apply text-teal-200 hover:text-teal-100 hover:underline;
+}
+
+input[type="text"], input[type="email"], input[type="password"], input[type="url"], input[type="tel"], input[type="number"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="time"], input[type="search"], input[type="color"], textarea, select {
+    @apply block bg-gray-100 text-gray-800 border border-gray-200 rounded-lg px-4 py-2;
 }
