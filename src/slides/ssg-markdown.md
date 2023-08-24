@@ -1,7 +1,7 @@
 ---
 layout: slide.njk
 title: Markdown
-order: 6.1
+order: 9.05
 ---
 
 {% predictText "show an example markdown file as a markdown code block with frontmatter, a list, headings, and paragraphs" %}
