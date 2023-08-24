@@ -1,0 +1,5 @@
+ - Cloudflare Workers are limited to 1000 requests per second per worker.
+- Cloudflare Workers can only run for a maximum of 10 seconds.
+- Cloudflare Workers cannot access the local filesystem.
+- Cloudflare Workers cannot make outbound network connections.
+- Cloudflare Workers cannot access environment variables.

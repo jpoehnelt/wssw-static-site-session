@@ -1,0 +1,15 @@
+ ### What can be done with Edge Functions?
+
+- **Transform data:**  You can use Edge Functions to transform data as it passes through the edge of the network. This can be useful for tasks such as filtering, sorting, or aggregating data.
+
+
+- **Enrich data:**  You can use Edge Functions to enrich data with additional information from other sources. This can be useful for tasks such as adding location data to user data, or adding product recommendations to customer data.
+
+
+- **Filter data:**  You can use Edge Functions to filter data based on specific criteria. This can be useful for tasks such as removing sensitive data from logs, or blocking malicious traffic.
+
+
+- **Proxy requests:**  You can use Edge Functions to proxy requests to other services. This can be useful for tasks such as load balancing, or adding authentication to requests.
+
+
+- **Respond to events:**  You can use Edge Functions to respond to events that occur in your network. This can be useful for tasks such as sending notifications, or taking action to mitigate security threats.

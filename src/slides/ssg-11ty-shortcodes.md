@@ -1,6 +1,6 @@
 ---
 layout: slide.njk
-title: 11ty Config
+title: Eleventy Shortcodes
 order: 9.1
 ---
 

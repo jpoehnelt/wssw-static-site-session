@@ -1,7 +1,7 @@
 ---
 layout: slide.njk
 title: Web Components Example
-order: 8.1
+order: 10.2
 ---
 
 {% predictText "in a single sentence, what is shoelace, the web component library?" %}

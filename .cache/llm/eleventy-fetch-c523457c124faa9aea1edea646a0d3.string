@@ -1,0 +1,1 @@
+ Edge functions are a type of serverless function that is deployed to the edge of the network, closer to the user. This allows for faster response times and reduced latency.

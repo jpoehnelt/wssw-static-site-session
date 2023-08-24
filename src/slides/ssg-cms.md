@@ -1,7 +1,7 @@
 ---
 layout: slide.njk
 title: Content Management Systems
-order: 6.3
+order: 10.4
 ---
 
 {% predictText "in a short sentence, what is a headless cms?" %}

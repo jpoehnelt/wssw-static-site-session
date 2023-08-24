@@ -1,0 +1,5 @@
+ - **Limited execution time:** Edge functions have a maximum execution time of 100ms. This means that they are not suitable for long-running tasks.
+- **Limited memory:** Edge functions have a maximum memory limit of 128MB. This means that they cannot process large amounts of data.
+- **Limited network bandwidth:** Edge functions have a maximum network bandwidth limit of 100Mbps. This means that they cannot transfer large amounts of data quickly.
+- **Limited concurrency:** Edge functions can only be executed concurrently up to a certain limit. This means that they cannot handle a large number of requests at the same time.
+- **Limited access to system resources:** Edge functions have limited access to system resources, such as the file system and network. This means that they cannot perform certain operations, such as reading from or writing to the file system.

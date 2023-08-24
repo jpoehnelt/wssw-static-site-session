@@ -1,7 +1,7 @@
 ---
 layout: slide.njk
 title: Web Components
-order: 8
+order: 10.1
 ---
 
 {% predictText "in a short paragraph, describe web components" %}
