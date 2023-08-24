@@ -1,0 +1,1 @@
+ Yes, web components work well with SSG (Static Site Generators). SSG builds a website by pre-rendering the HTML, CSS, and JavaScript files. Web components are encapsulated and self-contained, which makes them easy to integrate into an SSG build process. Additionally, web components can be cached, which can improve the performance of an SSG-generated website.

@@ -1,0 +1,8 @@
+ | Feature | SSG | SSR | CSR | ISR |
+|---|---|---|---|---|
+| When is content generated? | Build time | Request time | Request time | Request time |
+| Does it require a server? | No | Yes | Yes | Yes |
+| Does it support dynamic content? | No | Yes | Yes | Yes |
+| Performance | Fast | Slow | Slow | Fast |
+| SEO | Good | Good | Bad | Good |
+| User experience | Good | Good | Bad | Good |

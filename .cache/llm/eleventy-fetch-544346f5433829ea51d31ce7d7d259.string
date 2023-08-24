@@ -1,0 +1,13 @@
+ - **Speed**: SSGs generate static HTML files that are served directly to the user's browser, resulting in blazing-fast load times.
+
+
+- **Scalability**: SSGs can easily be scaled to handle large amounts of traffic, making them ideal for high-traffic websites.
+
+
+- **Security**: SSGs are not vulnerable to the same security threats as dynamic websites, making them a more secure option for websites that handle sensitive data.
+
+
+- **Cost-effectiveness**: SSGs are very cost-effective to run, as they do not require expensive hosting or maintenance.
+
+
+- **Flexibility**: SSGs can be used to create a wide variety of websites, from simple blogs to complex e-commerce stores.

@@ -1,0 +1,1 @@
+ An Eleventy Shortcode is a small snippet of code that can be used to insert dynamic content into an Eleventy template. Shortcodes are typically used to add functionality that is not natively supported by Eleventy, such as forms, buttons, and social media widgets.

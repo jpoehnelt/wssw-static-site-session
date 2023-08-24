@@ -1,0 +1,3 @@
+ - **Increased load on the database server:** As traffic to a WordPress site increases, so does the number of database queries that are made. This can put a strain on the database server, causing it to slow down or even crash.
+- **Increased risk of data loss:** If the database server is overloaded, it can increase the risk of data loss. This is because the database server may not be able to keep up with the number of requests it is receiving, and data may be lost or corrupted.
+- **Slower performance:** A slow database server can slow down the entire WordPress site. This is because WordPress relies on the database to store and retrieve data, and if the database is slow, it will take longer for WordPress to load pages and process requests.

@@ -1,0 +1,11 @@
+ ```
+module.exports = function(eleventyConfig) {
+  // Return your configuration object.
+  return {
+    dir: {
+      input: "src",
+      output: "dist"
+    }
+  };
+};
+```

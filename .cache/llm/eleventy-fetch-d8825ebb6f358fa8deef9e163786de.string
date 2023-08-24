@@ -1,0 +1,5 @@
+ - **More efficient parsing and rendering engines.** Static site generators have become more efficient at parsing and rendering content, leading to faster build times.
+- **Improved caching mechanisms.** Static site generators now employ improved caching mechanisms that allow them to reuse previously generated content, reducing the need for repeated parsing and rendering.
+- **Advancements in hardware.** The hardware used to build static sites has also improved significantly, with faster processors and more memory available.
+- **Increased use of CDN's.** CDN's (Content Delivery Networks) have become more widely used, allowing static sites to be served from servers that are closer to the user, reducing latency and improving build times.
+- **Better tooling and frameworks.** The tooling and frameworks available for building static sites have also improved, providing developers with more efficient and streamlined ways to create and build their sites.

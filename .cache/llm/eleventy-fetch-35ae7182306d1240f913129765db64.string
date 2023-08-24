@@ -1,0 +1,7 @@
+ - **What:** Static site generators are tools that take content written in a simple format (like Markdown) and generate a static website.
+- **Why:** Static sites are faster, more secure, and easier to maintain than dynamic sites.
+- **How:** There are many different static site generators available, each with its own strengths and weaknesses. Some popular options include Hugo, Jekyll, and Gatsby.
+- **Benefits:** Static site generators can help you create a website that is:
+ - Faster: Static sites are served from a CDN, which means they load quickly for visitors all over the world.
+ - More secure: Static sites are not vulnerable to the same attacks as dynamic sites, such as SQL injection and cross-site scripting.
+ - Easier to maintain: Static sites do not require a database or other complex infrastructure, which makes them easier to manage.

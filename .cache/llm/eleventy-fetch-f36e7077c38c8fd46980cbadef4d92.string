@@ -1,0 +1,10 @@
+ - SSG (Static Site Generation): SSG is the process of pre-rendering a website's pages into static HTML files during build time, resulting in faster page load times and improved performance.
+
+
+- SSR (Server Side Rendering): SSR is the process of rendering a website's pages on the server each time a request is made, providing the ability to generate dynamic content and handle user interactions.
+
+
+- CSR (Client Side Rendering): CSR is the process of rendering a website's pages on the client (browser) using JavaScript, allowing for interactive and dynamic content, but with the potential for slower initial page load times.
+
+
+- ISR (Incremental Static Regeneration): ISR is a hybrid approach that combines elements of both SSG and SSR, where static pages are pre-rendered but can be incrementally updated and re-rendered on the server when new data or changes occur.

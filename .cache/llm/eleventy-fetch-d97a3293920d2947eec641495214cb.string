@@ -1,0 +1,1 @@
+ SSG is cheaper to host than SSR and CSR because it does not require a server to render pages.

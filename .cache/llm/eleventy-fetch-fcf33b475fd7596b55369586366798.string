@@ -1,0 +1,5 @@
+ - **E-commerce websites**: Static site generators are not ideal for e-commerce websites because they cannot handle dynamic content, such as shopping carts and checkout pages.
+- **Social media websites**: Static site generators are not ideal for social media websites because they cannot handle user-generated content, such as posts, comments, and likes.
+- **Membership websites**: Static site generators are not ideal for membership websites because they cannot handle user accounts and subscriptions.
+- **Real-time applications**: Static site generators are not ideal for real-time applications, such as chat rooms and multiplayer games.
+- **Data-driven websites**: Static site generators are not ideal for data-driven websites, such as dashboards and reports.

@@ -1,0 +1,6 @@
+ Web components are a set of features that allow you to create custom, reusable HTML elements. They consist of three main parts:
+
+HTML templates define the structure of the element.
+CSS styles define the look and feel of the element.
+JavaScript code defines the behavior of the element.
+Web components can be used to create anything from simple buttons to complex widgets. They are a powerful way to extend the HTML language and create new and innovative user interfaces.

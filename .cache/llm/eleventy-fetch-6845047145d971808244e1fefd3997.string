@@ -1,0 +1,4 @@
+ - **Static sites are simple to host.** They don't require a database or any other complex software. This makes them very easy to set up and maintain.
+- **Static sites are lightweight.** They don't have any dynamic content, so they don't need to be processed by a server each time they're loaded. This makes them very fast and efficient.
+- **Static sites are scalable.** They can be easily scaled to handle large amounts of traffic without any performance issues. This makes them ideal for websites that are expected to receive a lot of visitors.
+- **Static sites are secure.** They're not vulnerable to the same security threats as dynamic websites, such as SQL injection and cross-site scripting. This makes them a more secure option for websites that handle sensitive data.
